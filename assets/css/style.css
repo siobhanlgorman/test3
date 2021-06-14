@@ -8,14 +8,23 @@
 
 html, body {
     height: 100%;
+    
 }
 
 
 body {
     font-family: 'Poppins', sans-serif;
+    font-size: 62.5%;
 
 }
 
+h1 {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1rem;
+}
 /* page background styling */
 main {
     width: 100%;
@@ -24,7 +33,6 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    
     background: url('../images/cassette-5986249_1280.png');
     background-color : purple;
     background-repeat: no-repeat;
@@ -118,7 +126,6 @@ main {
 }
 
 /* answers container */
-/* .game-options-container section{ */
     .answers-container {
     width: 80%;
     height: 12rem;
@@ -129,7 +136,6 @@ main {
 }
 
 /* four answer boxes */
-/* .game-options-container span{ */
     .answer-box {
     width: 45%;
     height: 3rem;
@@ -138,18 +144,24 @@ main {
     overflow: hidden;
 }
 
-/* answer box text */
-span label{
+/* answer box text styling */
+.answer-box p {
+    color: green;
+    cursor: pointer;
+}
+
+
+/* span label{
     width: 100%;
     height: 100%;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: center; */
     /* cursor: pointer;
     transition: transform 0.3s; */
-    font-weight: 300;
-    color: rgb(22, 22, 22);
-}
+    /* font-weight: 300;
+    color: rgb(22, 22, 22); */
+
 
 /* span label:hover{
     -ms-transform: scale(1.12);
@@ -282,13 +294,13 @@ span label{
        font-size: 1rem;
     }
 
-    .game-options-container span{
+    /* .game-options-container span{
         width: 90%;
         height: 2.5rem;
     }
     .game-options-container span label{
         font-size: 1rem;
-    }
+    } */
 }
     /* .modal-content-container{
         width: 90%;
@@ -317,9 +329,9 @@ span label{
         font-size: 1rem;
      }
 
-    .game-options-container span{
+    /* .game-options-container span{
         width: 90%;
-    }
+    } */
 }
     /* .modal-content-container{
         width: 90%;
