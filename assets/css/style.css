@@ -278,7 +278,8 @@ main {
     background-color: rgb(83, 82, 82);
 } */
 
-@media(min-width : 300px) and (max-width : 350px){
+/* mobile phone */
+@media(min-width : 300px) and (max-width : 576px){
     .quiz-container{
         width: 90%;
         height: 80vh;
@@ -294,6 +295,14 @@ main {
        font-size: 1rem;
     }
 
+    .answers-container {
+        flex-direction: column;
+        
+    }
+    .answer-box {
+        width: 100%;
+    }
+}   
     /* .game-options-container span{
         width: 90%;
         height: 2.5rem;
@@ -301,7 +310,7 @@ main {
     .game-options-container span label{
         font-size: 1rem;
     } */
-}
+
     /* .modal-content-container{
         width: 90%;
         height: 25rem;
@@ -311,8 +320,8 @@ main {
         font-size: 1rem;
     } */
 
-
-@media(min-width : 350px) and (max-width : 700px){
+/* small tablet */
+@media(min-width : 576px) and (max-width : 768px){
    .quiz-container{
        width: 90%;
        height: 80vh;
