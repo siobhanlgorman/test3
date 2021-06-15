@@ -1,5 +1,3 @@
-console.log("hello")
-
 let questions = [{
     question: "Survivor had a hit with Eye of the Tiger. Which film did it feature in",
     choice1: "Ghostbusters",
@@ -9,7 +7,7 @@ let questions = [{
     answer: "2",
     },
     {
-    question: "'When I look back on my life, it's always been with a sense of shame, I've always been the one to blame' is the opening lyric to which song",
+    question: "'When I look back on my life, it's always been with a sense of shame, I've always been the one to blame' is the opening lyric to which song?",
     choice1: "'Bad' by Michael Jackson",
     choice2: "'Buffalo Stance' by Neneh Cherry",
     choice3: "'People are People' by Depeche Mode",
@@ -18,7 +16,7 @@ let questions = [{
     },
     
     {
-    question: "Which of these is Not a Cyndi Lauper song",
+    question: "Which of these is Not a Cyndi Lauper song?",
     choice1: "True Colours",
     choice2: "Girls Just Wanna Have Fun",
     choice3: "Time After Time",
@@ -26,7 +24,7 @@ let questions = [{
     answer: "4",
     },
     {
-    question: "'I know when to go out, I know when to stay in, get things done' is the opening lyric to which song",
+    question: "'I know when to go out, I know when to stay in, get things done' is the opening lyric to which song?",
     choice1: "'She Blinded Me By Science' by Thomas Dolby",
     choice2: "'Who Can It Be Now' by Men At Work",
     choice3: "'Modern Love' by David Bowie",
@@ -35,7 +33,7 @@ let questions = [{
     },
     
     {
-    question: "Who sings 'Sunshine on Leith",
+    question: "Who sings 'Sunshine on Leith?",
     choice1: "Queen",
     choice2: "The Silencers",
     choice3: "The Proclaimers",
@@ -43,7 +41,7 @@ let questions = [{
     answer: "3"
     },
     {
-    question: "'I Believe the Children Are Our Future' is the opening lyric to which Whitney Houston song",
+    question: "'I Believe the Children Are Our Future' is the opening lyric to which Whitney Houston song?",
     choice1: "All At Once",
     choice2: "One Moment in Time",
     choice3: "The Greatest Love Of All",
@@ -52,7 +50,7 @@ let questions = [{
     },
     
     {
-    question: "Which all-girl group had a Manic Monday",
+    question: "Which all-girl group had a Manic Monday?",
     choice1: "Bananarama",
     choice2: "The Bangles",
     choice3: "En Vogue",
@@ -60,7 +58,7 @@ let questions = [{
     answer: "2"
     },
     {
-    question: "'Desert loving in your eyes all the way' is the opening lyric to which song",
+    question: "'Desert loving in your eyes all the way' is the opening lyric to which song?",
     choice1: "'Walk Like An Egyptian' by The Bangles",
     choice2: "'Let's Dance' by David Bowie",
     choice3: "'Karma Chameleon' by Culture Club",
@@ -85,7 +83,7 @@ let questions = [{
     answer: "2",
     },
     {
-    question: "'I must've dreamed a thousand dreams, been haunted by a million screams' is the opening lyric to which song",
+    question: "'I must've dreamed a thousand dreams, been haunted by a million screams' is the opening lyric to which song?",
     choice1: "'The Reflex' by Duran Duran",
     choice2: "'Missing You' by John Waite",
     choice3: "Land of Confusion' by Genesis",
@@ -94,7 +92,7 @@ let questions = [{
     },
     
     {
-    question: "How many members were there in the Thompson Twins (1982 -1986)",
+    question: "How many members were there in the Thompson Twins (1982 -1986)?",
     choice1: "2",
     choice2: "3",
     choice3: "4",
@@ -127,7 +125,7 @@ let questions = [{
     answer: "3"
     },
     {
-    question: "What type of dance did Men Without Hats take to the charts in 1983",
+    question: "What type of dance did Men Without Hats take to the charts in 1983?",
     choice1: "safety",
     choice2: "sack",
     choice3: "jive",
@@ -144,7 +142,7 @@ let questions = [{
     },
     
     {
-    question: "Which Scandinavian Country do the band Aha come from",
+    question: "Which Scandinavian Country do the band Aha come from?",
     choice1: "Sweden",
     choice2: "Norway",
     choice3: "Finland",
@@ -162,7 +160,7 @@ let questions = [{
     },
     
     {
-    question: "What was the first single released from Michael Jackson's 'Thriller' album",
+    question: "What was the first single released from Michael Jackson's 'Thriller' album?",
     choice1: "Wanna Be Startin' Somethin'",
     choice2: "Beat It",
     choice3: "The Girl is Mine",
@@ -179,7 +177,7 @@ let questions = [{
     },
     
     {
-    question: "Which Prince album featured the 1983 hit Little Red Corvette ",
+    question: "Which Prince album featured the 1983 hit Little Red Corvette?",
     choice1: "1999",
     choice2: "Controversy",
     choice3: "Dirty Mind",
@@ -195,7 +193,7 @@ let questions = [{
     answer: "3"
     },
     {
-    question: "'Hey little sister what have you done?' is the openinig line to which song",
+    question: "'Hey little sister what have you done?' is the opening line to which song?",
     choice1: "'One Thing Leads to Another' by the Fixx",
     choice2: "'Cold Hearted Snake' by Paula Abdul",
     choice3: "'Modern Love' by David Bowie",
@@ -203,7 +201,7 @@ let questions = [{
     answer: "4"
     },
     {
-    question: "What was the biggest selling single of the 1980s in the UK",
+    question: "What was the biggest selling single of the 1980s in the UK?",
     choice1: "'Do they know it's Christmas'",
     choice2: "'Let's Dance' ",
     choice3: "'Relax' ",
@@ -243,7 +241,7 @@ let questions = [{
     answer: "2"
     },
     {
-    question: "Who said 'If Morissey says not to eat meat, then I'm going to eat meat: that's how much I hate Morissey",
+    question: "Who said 'If Morissey says not to eat meat, then I'm going to eat meat: that's how much I hate Morissey'?",
     choice1: "Robert Smith of The Cure",
     choice2: "Julian Cope of the Teardrop Explodes",
     choice3: "Michael Stipe of REM",
@@ -259,7 +257,7 @@ let questions = [{
     answer: "4"
     },
     {
-    question: "How many studio albums did REM release in the 80s",
+    question: "How many studio albums did REM release in the 80s?",
     choice1: "4",
     choice2: "5",
     choice3: "6",
@@ -292,36 +290,52 @@ let questions = [{
     },
     {
     question: "'Show me show me show me how you do that trick, the one that makes me scream she said', are the opening lines of which song?",
-    choice1: "'Hungry like the Wolf' by Duran Duran",
+    choice1: "'Hungry like the Wolf' by Duran Duran?",
     choice2: "'Just Like Heaven' by the Cure",
     choice3: "'Sign Of the Times' by Prince ",
     choice4: "'See you' by Depeche Mode",
     answer: "2"
     },
     {
-    question: "Which singer died in 1997 ",
+    question: "Which singer died in 1997?",
     choice1: "John Lennon",
     choice2: "Billy Mackenzie",
     choice3: "Kurt Cobain",
     choice4: "Ian Curtis",
     answer: "2"
     },
-
-
-    
+   
 ]
 
+console.log("hello")
+
+const question = document.getElementById("question");
+const answers = Array.from(document.getElementsByClassName("answer-text"));
 
 
+let currentQuestion = {};
+let acceptingAnswers = true;
+let score = 0;
+let questionCounter = 0;
+let availableQuestions = []
 
-// document.addEventListener("DOMContentLoaded", function() {
+const correct_bonus = 10;
+const max_questions = 5;
+
     
-// })
+
 
 // starts the game
 function runGame() {
+    questionCounter = 0;
+    score = 0;
+    availableQuestions = [...questions];
+    console.log(availableQuestions);
+    displayQuestion();
 
 }
+
+runGame();
 
 // checks what answer the user has chosen
 function checkAnswer() {
@@ -352,8 +366,17 @@ function incrementQuestionNumber() {
 
 // displays new question until max 5
 function displayQuestion() {
+    questionCounter++;
+    const questionIndex = Math.floor(Math.random() * availableQuestions.length)
+    displayQuestion = availableQuestions[questionIndex];
+    question.innerText = displayQuestion.question;
+
+    answers.forEach(function(answer) {
+        const number = answer.dataset["data-number"];
+        answer.innerText = currentQuestion["answer" + number];
+    });
     
-}
+};
 
 // displays four answers for each question
 function displayAnswers() {
