@@ -279,6 +279,8 @@ main {
 } */
 
 /* mobile phone */
+
+
 @media(min-width : 300px) and (max-width : 576px){
     .quiz-container{
         width: 90%;
